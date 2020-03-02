@@ -8,6 +8,13 @@
     },
     "author": "Lambda School",
     "devDependencies": {
+        "helmet": "^3.21.3",
         "nodemon": "^2.0.2"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "knex": "^0.20.10",
+        "morgan": "^1.9.1",
+        "sqlite3": "^4.1.1"
     }
 }
